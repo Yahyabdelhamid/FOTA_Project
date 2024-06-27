@@ -1,0 +1,18 @@
+body{
+	background-image: url("33.jpg");
+	background-size: cover ;
+	background-repeat no-repeat ;
+}
+
+.logo img{
+  width: 150px;
+  float: left;
+  padding-left: 45%;
+  padding-top: 1%;
+}
+h1 {
+  margin-bottom: -30px;
+}
+h2 {
+  padding-top: 1%;
+}
